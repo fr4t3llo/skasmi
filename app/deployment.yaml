@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: playground
-        image: ziko909/my-spring-app:v1
+        image: ziko909/my-spring-app:v2
         ports:
         - containerPort: 8080  
         env:
